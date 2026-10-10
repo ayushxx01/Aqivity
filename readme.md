@@ -1,4 +1,4 @@
-# Activity Guardian
+# Aqivity (Activity Guardian)
 
 **AI-powered air-quality guidance for outdoor activities.**
 
