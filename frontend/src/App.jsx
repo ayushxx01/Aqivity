@@ -188,7 +188,7 @@ function App() {
       <header className="hero">
         <div className="brand-mark">✳</div>
         <p className="eyebrow">YOUR OUTDOOR COMPANION</p>
-        <h1>Activity <span>Guardian</span></h1>
+        <h1>Aqivity</h1>
         <p className="subtitle">Better air awareness. Smarter outdoor plans.</p>
       </header>
 
